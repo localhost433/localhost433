@@ -17,7 +17,7 @@ I'm a Sophomore at NYU studying Mathematics and Computer Science.
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,c,bash,js,html,css" alt="Languages"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,js,html,css" alt="Languages"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frameworks:</td>
@@ -25,7 +25,7 @@ I'm a Sophomore at NYU studying Mathematics and Computer Science.
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database & Cloud:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite,aws,gcp" alt="Database & Cloud"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,gcp,postgres,redis,mongodb,mysql,sqlite" alt="Database & Cloud"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & Tools:</td>
