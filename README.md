@@ -1,4 +1,4 @@
-### Hello, I'm Robin!
+### Hello, I'm Robin
 
 I'm a Sophomore at NYU studying Mathematics and Computer Science.
 
@@ -13,26 +13,39 @@ I'm a Sophomore at NYU studying Mathematics and Computer Science.
 </p>
 
 ------
+<style>
+.skill-category {
+    font-weight: bold;
+    padding-right: 10px;
+    vertical-align: center;
+    border: none;
+}
+</style>
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,js,html,css" alt="Languages"/></td>
+        <td class="skill-category">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,js,ts,html,css" alt="Languages"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frameworks:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express,nextjs" alt="Frameworks"/></td>
+        <td class="skill-category">Web Frameworks:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express,nextjs" alt="Web Frameworks"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database & Cloud:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws,gcp,postgres,redis,mongodb,mysql,sqlite" alt="Database & Cloud"/></td>
+        <td class="skill-category">Databases:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite" alt="Databases"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,bash" alt="DevOps & Tools"/></td>
+        <td class="skill-category">Cloud Platforms:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,gcp,vercel" alt="Cloud Platforms"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Some more:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,matplotlib" alt="Some more"/></td>
+        <td class="skill-category">DevOps & Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu" alt="DevOps & Tools"/></td>
+    </tr>
+    <tr>
+        <td class="skill-category">Some Libraries:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,matplotlib" alt="Some Libraries"/></td>
     </tr>
 </table>
